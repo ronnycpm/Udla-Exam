@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-11",
+  "subjects": [
+    {
+      "id": "subject-01",
+      "module": 1,
+      "name": "Anatomía Patológica",
+      "file": "subjects/subject-01.json",
+      "source": "Anatomia_patologica.pdf",
+      "status": "review",
+      "questionCount": 43
+    },
+    {
+      "id": "subject-02",
+      "module": 2,
+      "name": "Anatomía",
+      "file": "subjects/subject-02.json",
+      "source": "Anatomia.pdf",
+      "status": "review",
+      "questionCount": 187
+    },
+    {
+      "id": "subject-03",
+      "module": 3,
+      "name": "Anestesiología",
+      "file": "subjects/subject-03.json",
+      "source": "Anestesiologia.pdf",
+      "status": "review",
+      "questionCount": 85
+    },
+    {
+      "id": "subject-04",
+      "module": 4,
+      "name": "Bioética",
+      "file": "subjects/subject-04.json",
+      "source": "bioetica.pdf",
+      "status": "review",
+      "questionCount": 197
+    },
+    {
+      "id": "subject-05",
+      "module": 5,
+      "name": "Bioquímica",
+      "file": "subjects/subject-05.json",
+      "source": "bioquimica.pdf",
+      "status": "ready",
+      "questionCount": 52
+    },
+    {
+      "id": "subject-06",
+      "module": 6,
+      "name": "Cardiología",
+      "file": "subjects/subject-06.json",
+      "source": "Cardiologia.pdf",
+      "status": "review",
+      "questionCount": 481
+    },
+    {
+      "id": "subject-07",
+      "module": 7,
+      "name": "Cirugía",
+      "file": "subjects/subject-07.json",
+      "source": "Cirugia_General.pdf",
+      "status": "review",
+      "questionCount": 185
+    },
+    {
+      "id": "subject-08",
+      "module": 8,
+      "name": "Dermatología",
+      "file": "subjects/subject-08.json",
+      "source": "Dermatologia.pdf",
+      "status": "ready",
+      "questionCount": 76
+    },
+    {
+      "id": "subject-09",
+      "module": 9,
+      "name": "Digestivo",
+      "file": "subjects/subject-09.json",
+      "source": "Digestivo.pdf",
+      "status": "review",
+      "questionCount": 260
+    },
+    {
+      "id": "subject-10",
+      "module": 10,
+      "name": "Endocrinología",
+      "file": "subjects/subject-10.json",
+      "source": "Endocrinologia.pdf",
+      "status": "review",
+      "questionCount": 160
+    },
+    {
+      "id": "subject-11",
+      "module": 11,
+      "name": "Estadística",
+      "file": "subjects/subject-11.json",
+      "source": "Estadistica.pdf",
+      "status": "review",
+      "questionCount": 203
+    },
+    {
+      "id": "subject-12",
+      "module": 12,
+      "name": "Farmacología",
+      "file": "subjects/subject-12.json",
+      "source": "Farmacologia.pdf",
+      "status": "ready",
+      "questionCount": 185
+    },
+    {
+      "id": "subject-13",
+      "module": 13,
+      "name": "Fisiología",
+      "file": "subjects/subject-13.json",
+      "source": "Fisiologia.pdf",
+      "status": "review",
+      "questionCount": 169
+    },
+    {
+      "id": "subject-14",
+      "module": 14,
+      "name": "Ginecología",
+      "file": "subjects/subject-14.json",
+      "source": "Ginecologia_y_obstetra.pdf",
+      "status": "review",
+      "questionCount": 198
+    },
+    {
+      "id": "subject-15",
+      "module": 15,
+      "name": "Hematología",
+      "file": "subjects/subject-15.json",
+      "source": "Hematologia.pdf",
+      "status": "review",
+      "questionCount": 74
+    },
+    {
+      "id": "subject-16",
+      "module": 16,
+      "name": "Inmunología",
+      "file": "subjects/subject-16.json",
+      "source": "Inmunologia.pdf",
+      "status": "ready",
+      "questionCount": 86
+    },
+    {
+      "id": "subject-17",
+      "module": 17,
+      "name": "Nefrología",
+      "file": "subjects/subject-17.json",
+      "source": "Nefrologia.pdf",
+      "status": "review",
+      "questionCount": 172
+    },
+    {
+      "id": "subject-18",
+      "module": 18,
+      "name": "Neumología",
+      "file": "subjects/subject-18.json",
+      "source": "Neumologia.pdf",
+      "status": "review",
+      "questionCount": 186
+    },
+    {
+      "id": "subject-19",
+      "module": 19,
+      "name": "Neurología",
+      "file": "subjects/subject-19.json",
+      "source": "Neurologia.pdf",
+      "status": "review",
+      "questionCount": 154
+    },
+    {
+      "id": "subject-20",
+      "module": 20,
+      "name": "Pediatría",
+      "file": "subjects/subject-20.json",
+      "source": "Pediatria.pdf",
+      "status": "review",
+      "questionCount": 137
+    },
+    {
+      "id": "subject-21",
+      "module": 21,
+      "name": "Traumatología",
+      "file": "subjects/subject-21.json",
+      "source": "Traumatologia.pdf",
+      "status": "ready",
+      "questionCount": 187
+    }
+  ]
+}
